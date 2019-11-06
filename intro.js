@@ -16,11 +16,26 @@ collects data from a flowFrom: can modify data in your database
 can manage (create delete etc) files on the server
 its event driven...it doesnt wait. making it extremely fast.
 
-Read about event driven programming:
+Read about 
+1)event driven programming:
 .......is a programming paradigm in which the flow of the program is determined by the events.
-such as user action
+such as user actions
+the main elements are event listeners and event handlers
+2) express:
+........
 
-package.json shows the descripytion of your application
+package.json shows the description of your application
+
+ROUTING:
+.......is determines/ how an application responds to a client requests
+
+Uses methods
+GET- allows you to display
+POST-allows you to send a message (record)to a server
+PUT- to edit what is already existing record
+DELETE- to remove the 
+
+
 
 
 */
