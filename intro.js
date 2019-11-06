@@ -30,8 +30,9 @@ ROUTING:
 .......is determines/ how an application responds to a client requests
 
 Uses methods
-GET- allows you to display
-POST-allows you to send a message (record)to a server
+GET- allows you to display on different paths from the same server
+POST-allows you to send a message (record)to a server...
+......we used postman coz we dont have a form in the browser, so we use postman display
 PUT- to edit what is already existing record
 DELETE- to remove the 
 
