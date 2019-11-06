@@ -16,5 +16,11 @@ collects data from a flowFrom: can modify data in your database
 can manage (create delete etc) files on the server
 its event driven...it doesnt wait. making it extremely fast.
 
-Read about event driven programming 
+Read about event driven programming:
+.......is a programming paradigm in which the flow of the program is determined by the events.
+such as user action
+
+package.json shows the descripytion of your application
+
+
 */
